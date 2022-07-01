@@ -1,2 +1,3 @@
 # Computational-Method-Homework
 This course was given in autumn 2020 by Professor Kuan Xu, USTC and focus on basic knowledge of Numerical Analysis and Numerical Linear Algebra. Though Professor Xu pays much efforts to teaching and thus will renew his coding homework every year, I still have to inform you guys that copying codes in homework is unacceptable. Wish you have a happy life :).
+考虑到此处需要将作业的参考作用最大化，这里还是附上批改过的版本比较合适。 算法大多可以从网络上找到对应的ppt,它们是课本内容的一些更一般化或是复杂的延申，但是程度不高，不会带来很大的困难。里面的例题也可以依葫芦画瓢。 建议在有空的时候认真地看看这些课件，这不但可以让你的作业更好地被完成，让你有能力排错，更可以让你面对2020秋期末的难度的考题时更加从容不迫、得心应手。除开这些功利因素，这一行径有助于你完成最重要的目的--学到真正的数值计算知识。 如果没空就没办法啦(￣▽￣") 比如博主本人 大家加油啦~
